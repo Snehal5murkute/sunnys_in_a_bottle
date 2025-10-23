@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+
+App{
+    overflow-y: hidden;
+}
+/* src/index.css */
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif; /* Default font */
+}
+
+.abeezee {
+  font-family: 'ABeeZee', sans-serif;
+}
+
+.inter {
+  font-family: 'Inter', sans-serif;
+}
+.Futura{
+   font-family: 'Futura', sans-serif;
+}
